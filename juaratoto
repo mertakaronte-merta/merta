@@ -47,12 +47,12 @@
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
   <link rel="canonical" href="https://schengensecure.com/">
-  <link rel="amphtml" href="https://schengensecure.com/toto" />
-  <link rel="alternate" hreflang="id-id" href="https://schengensecure.com/toto" />
-  <link rel="alternate" href="https://schengensecure.com/toto" />
-  <link rel="alternate" hreflang="id" href="https://schengensecure.com/toto" />
-  <link rel="alternate" hreflang="en" href="https://schengensecure.com/toto" />
-  <link rel="alternate" hreflang="x-default" href="https://schengensecure.com/toto" />
+  <link rel="amphtml" href="https://schengensecure.com/toto/">
+  <link rel="alternate" hreflang="id-id" href="https://schengensecure.com/toto/">
+  <link rel="alternate" href="https://schengensecure.com/toto/">
+  <link rel="alternate" hreflang="id" href="https://schengensecure.com/toto/">
+  <link rel="alternate" hreflang="en" href="https://schengensecure.com/toto/">
+  <link rel="alternate" hreflang="x-default" href="https://schengensecure.com/toto/">
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
@@ -499,8 +499,8 @@
 </style>
 
 <div class="n-columns-2">
-<a href="https://schengensecure.com/toto" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://schengensecure.com/toto" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://schengensecure.com/toto/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://schengensecure.com/toto/" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                 </div>
                
@@ -751,7 +751,7 @@
                                     </div>
                                    <div class="prime-text ">
                                         <p><strong>Catatan:</strong> JUARA288 tetap mengimbau seluruh pengguna situs untuk melakukan riset ataupun observasi terlebih dahulu sebelum bermain. Pastikan bermain disitus yang sudah terverifikasi resmi dan memiliki pasaran toto togel autentik.</p><a class="font-normal theme-color"
-                                            href="https://schengensecure.com/toto"
+                                            href="https://schengensecure.com/toto/"
                                             target="_blank">KLIK DISINI</a>.
                                     </div>
                                 </div>
@@ -1034,12 +1034,12 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
 
     <!-- Tombol DAFTAR dengan link -->
-    <a href="https://schengensecure.com/toto" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+    <a href="https://schengensecure.com/toto/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
         DAFTAR
     </a>
 
     <!-- Tombol LOGIN dengan link -->
-    <a href="https://schengensecure.com/toto" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+    <a href="https://schengensecure.com/toto/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
         LOGIN
     </a>
 
@@ -2571,27 +2571,27 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
      
      <div class="footer-floating-nevetseel">
-      <a href="https://schengensecure.com/toto" class="footer-btn-nevetseel promo" target="_blank"
+      <a href="https://schengensecure.com/toto/" class="footer-btn-nevetseel promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-dragon-blue-fire-circle-png-image_13463560.png" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://schengensecure.com/toto" class="footer-btn-nevetseel login" target="_blank"
+      <a href="https://schengensecure.com/toto/" class="footer-btn-nevetseel login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-dragon-blue-fire-circle-png-image_13463560.png" alt="Login"> LOGIN
             </a>
 
-      <a href="https://schengensecure.com/toto" class="footer-btn-nevetseel daftar" target="_blank"
+      <a href="https://schengensecure.com/toto/" class="footer-btn-nevetseel daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-dragon-blue-fire-circle-png-image_13463560.png" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://schengensecure.com/toto" class="footer-btn-nevetseel link" target="_blank"
+      <a href="https://schengensecure.com/toto/" class="footer-btn-nevetseel link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-dragon-blue-fire-circle-png-image_13463560.png" alt="WhatsApp"> WHATSAPP
             </a>
 
-      <a href="https://schengensecure.com/toto" class="footer-btn-nevetseel chat" target="_blank"
+      <a href="https://schengensecure.com/toto/" class="footer-btn-nevetseel chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://png.pngtree.com/png-vector/20240827/ourmid/pngtree-dragon-blue-fire-circle-png-image_13463560.png" alt="Live Chat"> LIVE CHAT
             </a>
@@ -2836,7 +2836,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 })();
 </script>
-      <script> window.RS_MODULES = window.RS_MODULES || {};window.RS_MODULES.modules = window.RS_MODULES.modules || {};window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];window.RS_MODULES.defered = true;window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};window.RS_MODULES.type = 'compiled';</script> <script type="text/x-magento-init"> {"*":{"Magento_Persistent/js/remember-me-config":{"config":{"persistenceConfig":{"isRememberMeCheckboxVisible":true,"isRememberMeCheckboxChecked":false}}}}}</script> <style> @keyframes spinIn {0% {opacity: 0;transform: scale(.6) rotate(-360deg);}70% {opacity: 1;transform: scale(1.05) rotate(20deg);}100% {transform: scale(1) rotate(0);}}@keyframes spinOut {0% {opacity: 1;transform: scale(1) rotate(0);}100% {opacity: 0;transform: scale(.6) rotate(360deg);}}</style> <div id="jt-popup" style=" position: fixed;z-index: 9999;inset: 0;background: rgba(0,0,0,.6);backdrop-filter: blur(5px);display: flex;align-items: center;justify-content: center;padding: 16px;"> <div id="jt-popup-box" style=" position: relative;display: flex;flex-direction: column;align-items: center;width: 100%;max-width: 400px;animation: spinIn .7s cubic-bezier(.2,.9,.3,1);"> <button id="jt-close" aria-label="Close popup" style=" position:absolute;top:-10px;right:-10px;width:34px;height:34px;border-radius:50%;border:none;cursor:pointer;font-size:18px;font-weight:900;color:#fff;background:linear-gradient(135deg,#7a0000,#c9c416);box-shadow:0 4px 12px rgba(0,0,0,.6);">x</button> <img src="https://schengensecure.com/pasti-juara288.png" alt="JUARA288 TOGEL" style=" width:100%;border-radius:14px;box-shadow:0 0 14px rgb(0 0 0);margin-bottom:16px;"> <div style="display:flex;gap:10px;width:100%;margin-bottom:16px;"> <a href="https://schengensecure.com/toto" style="flex:1;height:46px;line-height:46px;text-align:center;font-weight:800;font-size:15px;color:#fff;text-decoration:none;border-radius:10px;font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg, #0099FF, #c9c416);box-shadow:inset 0 1px 0 rgba(255,255,255,.15),0 6px 14px rgba(0,0,0,.7);"> DAFTAR </a> <a href="https://schengensecure.com/toto" style="flex:1;height:46px;line-height:46px;text-align:center;font-weight:800;font-size:15px;color:#fffff;text-decoration:none;border-radius:10px;font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg, #0099FF, #c9c416);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),0 6px 14px rgba(0,0,0,.6);"> LOGIN </a> </div> <h2 style="color:#fff;font-size:15px;text-align:center;font-weight:800;line-height:1.5;margin:0 0 14px;"> JUARA288 Official # Situs Togel Terpercaya Dan Situs Toto 4D Terlengkap Di Asia </h2> <div style="font-size:12px;color:#eee;"> © COPYRIGHT 2026 <span style="color:#ff0022;">|</span> JUARA288 </div> </div> </div> <script> const popup = document.getElementById('jt-popup');const box = document.getElementById('jt-popup-box');const close = document.getElementById('jt-close');function closePopup(){box.style.animation = 'spinOut .45s ease forwards';setTimeout(()=> popup.style.display='none',420);}popup.addEventListener('click', closePopup);close.addEventListener('click', function(e){e.stopPropagation();closePopup();});box.addEventListener('click', e => e.stopPropagation());</script>  
+      <script> window.RS_MODULES = window.RS_MODULES || {};window.RS_MODULES.modules = window.RS_MODULES.modules || {};window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];window.RS_MODULES.defered = true;window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};window.RS_MODULES.type = 'compiled';</script> <script type="text/x-magento-init"> {"*":{"Magento_Persistent/js/remember-me-config":{"config":{"persistenceConfig":{"isRememberMeCheckboxVisible":true,"isRememberMeCheckboxChecked":false}}}}}</script> <style> @keyframes spinIn {0% {opacity: 0;transform: scale(.6) rotate(-360deg);}70% {opacity: 1;transform: scale(1.05) rotate(20deg);}100% {transform: scale(1) rotate(0);}}@keyframes spinOut {0% {opacity: 1;transform: scale(1) rotate(0);}100% {opacity: 0;transform: scale(.6) rotate(360deg);}}</style> <div id="jt-popup" style=" position: fixed;z-index: 9999;inset: 0;background: rgba(0,0,0,.6);backdrop-filter: blur(5px);display: flex;align-items: center;justify-content: center;padding: 16px;"> <div id="jt-popup-box" style=" position: relative;display: flex;flex-direction: column;align-items: center;width: 100%;max-width: 400px;animation: spinIn .7s cubic-bezier(.2,.9,.3,1);"> <button id="jt-close" aria-label="Close popup" style=" position:absolute;top:-10px;right:-10px;width:34px;height:34px;border-radius:50%;border:none;cursor:pointer;font-size:18px;font-weight:900;color:#fff;background:linear-gradient(135deg,#7a0000,#c9c416);box-shadow:0 4px 12px rgba(0,0,0,.6);">x</button> <img src="https://schengensecure.com/pasti-juara288.png" alt="JUARA288 TOGEL" style=" width:100%;border-radius:14px;box-shadow:0 0 14px rgb(0 0 0);margin-bottom:16px;"> <div style="display:flex;gap:10px;width:100%;margin-bottom:16px;"> <a href="https://schengensecure.com/toto/" style="flex:1;height:46px;line-height:46px;text-align:center;font-weight:800;font-size:15px;color:#fff;text-decoration:none;border-radius:10px;font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg, #0099FF, #c9c416);box-shadow:inset 0 1px 0 rgba(255,255,255,.15),0 6px 14px rgba(0,0,0,.7);"> DAFTAR </a> <a href="https://schengensecure.com/toto/" style="flex:1;height:46px;line-height:46px;text-align:center;font-weight:800;font-size:15px;color:#fffff;text-decoration:none;border-radius:10px;font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg, #0099FF, #c9c416);box-shadow:inset 0 1px 0 rgba(255,255,255,.5),0 6px 14px rgba(0,0,0,.6);"> LOGIN </a> </div> <h2 style="color:#fff;font-size:15px;text-align:center;font-weight:800;line-height:1.5;margin:0 0 14px;"> JUARA288 Official # Situs Togel Terpercaya Dan Situs Toto 4D Terlengkap Di Asia </h2> <div style="font-size:12px;color:#eee;"> © COPYRIGHT 2026 <span style="color:#ff0022;">|</span> JUARA288 </div> </div> </div> <script> const popup = document.getElementById('jt-popup');const box = document.getElementById('jt-popup-box');const close = document.getElementById('jt-close');function closePopup(){box.style.animation = 'spinOut .45s ease forwards';setTimeout(()=> popup.style.display='none',420);}popup.addEventListener('click', closePopup);close.addEventListener('click', function(e){e.stopPropagation();closePopup();});box.addEventListener('click', e => e.stopPropagation());</script>  
 
 
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"dfbfc7ae7aa84f968d3fbc277e73da9b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
