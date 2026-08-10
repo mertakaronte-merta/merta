@@ -1,0 +1,620 @@
+
+
+<!DOCTYPE html>
+<html amp lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <title>JUARA288 #1 Situs Togel Toto 4D Terpercaya & Agen resmi Slot Gacor hari Auto Jackpot</title>
+    <meta name="description" content="UARA288 memang merupakan situs togel  toto yang cuma modal main toto slot dari slot gacor 5k bisa merasakan sensasi slot gacor 4d dan slot 4d yang kualitas RTP slot paling terpercaya dengan jaminan scatter hitam setiap hari.">
+    <meta name="geo.placename" content="Indonesia">
+    <meta name="geo.region" content="id-ID">
+    <meta name="geo.country" content="id">
+    <meta name="language" content="Indonesian">
+    <meta name="author" content="JUARA288">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="JUARA288 #1 Situs Togel Toto 4D Terpercaya & Agen resmi Slot Gacor hari Auto Jackpot">
+    <meta property="og:description" content="UARA288 memang merupakan situs togel  toto yang cuma modal main toto slot dari slot gacor 5k bisa merasakan sensasi slot gacor 4d dan slot 4d yang kualitas RTP slot paling terpercaya dengan jaminan scatter hitam setiap hari.">
+    <meta property="og:url" content="https://everythingdiecast.net/">
+    <meta property="og:image" content="https://everythingdiecast.net/juara288-togel-toto.png">
+    <link rel="canonical" href="https://everythingdiecast.net/">
+    <link rel="icon" href="https://juara288.com/icon.png" sizes="any">
+    <link rel="icon" href="https://juara288.com/icon.png" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="https://juara288.com/icon.png">
+    <link rel="preload" href="https://everythingdiecast.net/juara288-togel-toto.png" as="image">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Matrix+Regular+Small+Caps&family=EB+Garamond:ital,wght@0,400;0,700;1,000&display=swap" rel="stylesheet">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+    <style amp-custom>
+        html {
+            height: 100%;
+            overflow-y: auto;
+        }
+
+        body {
+            background: url('https://everythingdiecast.net/juara288-togel-toto.png') no-repeat center center / cover;
+            background-attachment: fixed;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100%;
+            padding: 15px 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .flip-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            background: linear-gradient(145deg, #8b5a2b, #4a2a18);
+            border: 2px solid #d4af37;
+            border-radius: 8px;
+            cursor: pointer;
+            color: #fff4d6;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.45);
+            margin-bottom: -28px;
+            position: relative;
+            z-index: 20;
+        }
+
+        .card-scene {
+            width: 470px;
+            perspective: 1200px;
+            margin: 50px 0;
+            position: relative;
+            z-index: 10;
+        }
+
+        .card-flipper {
+            position: relative;
+            transition: transform 0.8s;
+            transform-style: preserve-3d;
+        }
+
+        .card-flipper.is-flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-face-front {
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+
+        .card-face-back {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            transform: rotateY(180deg);
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.75);
+            box-sizing: border-box;
+            background: #7a4b26;
+            padding: 12px;
+            display: block;
+        }
+
+        .card-face-back amp-img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            border-radius: 10px;
+        }
+
+        .min-card-container {
+            width: 100%;
+            background: linear-gradient(145deg, #8c5a32, #3a2115);
+            border-radius: 20px;
+            padding: 12px;
+            box-shadow:
+                0 10px 40px rgba(0, 0, 0, 0.75),
+                inset 0 0 5px rgba(255, 224, 180, 0.35);
+            position: relative;
+            transition: all 0.2s ease-out;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+
+        .min-card-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -150px;
+            width: 100px;
+            height: 100%;
+            background: linear-gradient(
+                90deg,
+                transparent,
+                rgba(255, 220, 160, 0.55),
+                transparent
+            );
+            transform: skewX(-25deg);
+            z-index: 2;
+            animation: card-shine 5s infinite;
+            animation-delay: 1s;
+        }
+
+        @keyframes card-shine {
+            0% {
+                left: -150px;
+            }
+            25% {
+                left: 110%;
+            }
+            100% {
+                left: 110%;
+            }
+        }
+
+        .hologram {
+            width: 25px;
+            height: 25px;
+            background: linear-gradient(
+                135deg,
+                #3b1f13,
+                #7a4a24,
+                #d4af37,
+                #f0d58c,
+                #8b4513
+            );
+            background-size: 200% 200%;
+            animation: holo-shine 3s linear infinite;
+            border: 1px solid #d1a85b;
+            position: absolute;
+            right: 18px;
+            bottom: 18px;
+            z-index: 10;
+        }
+
+        @keyframes holo-shine {
+            0% {
+                background-position: 100% 100%;
+            }
+            50% {
+                background-position: 0% 0%;
+            }
+            100% {
+                background-position: 100% 100%;
+            }
+        }
+
+        .min-card-inner {
+            background: #21140f;
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid #d9bd85;
+            position: relative;
+            z-index: 1;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: linear-gradient(
+                145deg,
+                #3a2116,
+                #7a4a2a,
+                #c59a55
+            );
+            padding: 10px 15px;
+            border-bottom: 2px solid #d4af37;
+            box-shadow:
+                inset 0 2px 2px rgba(255,255,255,0.18),
+                inset 0 -2px 3px rgba(0,0,0,0.5);
+        }
+
+        .card-name {
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            font-size: 28px;
+            background: linear-gradient(
+                180deg,
+                #fff0c2 0%,
+                #c99d57 45%,
+                #5b331c 100%
+            );
+            -webkit-background-clip: text;
+            -moz-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -moz-text-fill-color: transparent;
+            text-fill-color: transparent;
+            text-shadow: 1px 1px 1px rgba(255,255,255,0.15);
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+
+        .card-attribute {
+            width: 40px;
+            height: 40px;
+            background: radial-gradient(circle, #f3d895, #8b5a2b);
+            border: 2px solid #ffe8af;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Arial Black', sans-serif;
+            font-size: 18px;
+            color: #2a160c;
+            text-shadow: 1px 1px 1px #f5d487;
+            box-shadow:
+                inset 0 0 5px rgba(0,0,0,0.7),
+                0 0 8px rgba(212,175,55,0.75);
+            flex-shrink: 0;
+        }
+
+        .card-level {
+            background: linear-gradient(
+                145deg,
+                #4b2b1c,
+                #8a5530
+            );
+            padding: 5px 15px 8px 15px;
+            box-shadow:
+                inset 0 2px 2px rgba(255,255,255,0.18),
+                inset 0 -2px 3px rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+        }
+
+        .star {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: radial-gradient(
+                circle at 50% 30%,
+                #ffd36b,
+                #7a2e0e 70%
+            );
+            border-radius: 50%;
+            margin-left: 3px;
+            filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.6));
+            position: relative;
+        }
+
+        .star::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(
+                circle at 40% 30%,
+                #fff0b2,
+                #d4af37 70%
+            );
+            clip-path: polminn(
+                50% 0%,
+                65% 40%,
+                100% 40%,
+                75% 65%,
+                85% 100%,
+                50% 80%,
+                15% 100%,
+                25% 65%,
+                0% 40%,
+                35% 40%
+            );
+            transform: scale(0.9);
+        }
+
+        .rating-count {
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: #ffe8b0;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+            margin-left: 10px;
+        }
+
+        .card-image-box {
+            padding: 8px;
+            background: #21140f;
+        }
+
+        .card-image-placeholder {
+            width: 100%;
+            overflow: hidden;
+            border-radius: 5px;
+            position: relative;
+            border-style: solid;
+            border-width: 6px;
+            border-color:
+                #d8b16a
+                #4a2816
+                #7e4b25
+                #f0d18b;
+            box-shadow:
+                inset 0 0 10px rgba(0,0,0,0.85),
+                0 0 8px rgba(212,175,55,0.25);
+            box-sizing: border-box;
+        }
+
+        .card-type {
+            background: linear-gradient(
+                145deg,
+                #7b4928,
+                #4a2818
+            );
+            padding: 5px 15px;
+            border-top: 2px solid #c79b54;
+            border-bottom: 2px solid #8c5a30;
+        }
+
+        .type-text {
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            font-size: 14px;
+            font-weight: 800;
+            color: #ffe9bd;
+        }
+
+        .card-body {
+            background: linear-gradient(
+                145deg,
+                #5d351f,
+                #2f1a11
+            );
+            padding: 15px;
+            text-align: left;
+            box-shadow: inset 0 0 10px rgba(0,0,0,0.35);
+        }
+
+        .card-description {
+            font-family: 'EB Garamond', serif;
+            font-size: 15px;
+            color: #f7e5c3;
+            line-height: 1.4;
+            font-style: italic;
+        }
+
+        .card-description strong {
+            font-style: normal;
+            font-weight: bold;
+            color: #ffe6ad;
+        }
+
+        .card-cta-button {
+            display: block;
+            width: 80%;
+            margin: 15px auto 10px auto;
+            padding: 12px;
+            background: linear-gradient(
+                145deg,
+                #b47a3c,
+                #6c3f22
+            );
+            color: #fff3d7;
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            font-size: 18px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            border: 1px solid #d4af37;
+            box-shadow:
+                0 4px 10px rgba(0,0,0,0.45),
+                inset 0 1px 2px rgba(255,255,255,0.18);
+            transition: all 0.2s ease-in-out;
+            cursor: pointer;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.55);
+        }
+
+        .card-description + .card-cta-button {
+            margin-top: 20px;
+        }
+
+        .card-cta-button:hover {
+            background: linear-gradient(
+                145deg,
+                #d1a05c,
+                #7a4826
+            );
+            box-shadow:
+                0 6px 15px rgba(139, 90, 43, 0.55),
+                0 0 12px rgba(212,175,55,0.35);
+            transform: translateY(-2px);
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 10px 15px;
+            background: linear-gradient(
+                145deg,
+                #3f2418,
+                #81502e
+            );
+            border-top: 2px solid #c79b54;
+            padding-right: 50px;
+            box-shadow:
+                inset 0 2px 2px rgba(255,255,255,0.18),
+                inset 0 -2px 3px rgba(0,0,0,0.5);
+        }
+
+        .stats {
+            font-family: 'Matrix Regular Small Caps', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #ffe4ad;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.65);
+            margin-left: 25px;
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+                align-items: center;
+                min-height: auto;
+            }
+
+            .flip-button {
+                margin-top: 5px;
+                margin-bottom:2px;
+            }
+
+            .card-scene {
+                width: 100%;
+                margin: 15px 0;
+            }
+
+            .min-card-container {
+                width: 100%;
+                padding: 8px;
+                margin: 0;
+            }
+
+            .card-face-back {
+                padding: 8px;
+            }
+
+            .card-face-back amp-img {
+                border-radius: 10px;
+            }
+
+            .card-name {
+                font-size: 22px;
+            }
+
+            .card-attribute {
+                width: 35px;
+                height: 35px;
+                font-size: 16px;
+            }
+
+            .star {
+                width: 16px;
+                height: 16px;
+                margin-left: 2px;
+            }
+
+            .rating-count {
+                font-size: 14px;
+                margin-left: 5px;
+            }
+
+            .card-image-box {
+                padding: 5px;
+            }
+
+            .card-description {
+                font-size: 14px;
+            }
+
+            .card-body {
+                padding: 12px;
+            }
+
+            .card-cta-button {
+                font-size: 16px;
+                padding: 10px;
+                width: 90%;
+            }
+
+            .stats {
+                font-size: 16px;
+                margin-left: 15px;
+            }
+
+            .card-footer {
+                padding-right: 40px;
+            }
+
+            .hologram {
+                right: 12px;
+                bottom: 12px;
+                width: 20px;
+                height: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card-scene">
+        <div class="card-flipper" [class]="'card-flipper' + (cardState.isCardFlipped ? ' is-flipped' : '')">
+            <div class="card-face-front">
+                <div class="min-card-container">
+                    <div class="hologram"></div>
+                    <div class="min-card-inner">
+
+                        <div class="card-header">
+                            <amp-img id="image" class="animated tada infinite slower" src="https://juara288.com/logo.png" alt="JUARA288" width="150" height="45" layout="intrinsic" style="margin-bottom: 10px;"></amp-img>
+
+                            <div class="card-attribute" title="Atribut: DIVINE (Dewa)">⚡️</div>
+                        </div>
+
+                        <div class="card-level">
+                            <span class="star"></span> 
+                            <span class="star"></span> 
+                            <span class="star"></span> 
+                            <span class="star"></span> 
+                            <span class="star"></span>
+                            <span class="star"></span>
+                            <span class="star"></span>
+                            <span class="star"></span>
+                            <span class="star"></span>
+                            <span class="star"></span> 
+                            <span class="rating-count">( Rating: 999999999 )</span>
+                        </div>
+
+                        <div class="card-image-box">
+                            <div class="card-image-placeholder">
+                                <amp-img
+                                    src="https://everythingdiecast.net/juara288-togel-toto.png"
+                                    alt="JUARA288"
+                                    layout="responsive" 
+                                    width="600"  
+                                    height="600" 
+                                ></amp-img>
+                            </div>
+                        </div>
+
+                        <div class="card-type">
+                            <span class="type-text">[SITUS TOGEL TOTO & SLOT GACOR HARI INI]</span>
+                        </div>
+
+                        <div class="card-body">
+                            <div class="card-description">
+                                
+                            </div>
+
+                            <a target="_blank" rel="nofollow noreferrer noopener" title="LOGIN JUARA288" href="https://seobapak.xyz/juara288/" class="card-cta-button">
+                                LOGIN JUARA288
+                            </a>
+
+                            <a target="_blank" rel="nofollow noreferrer noopener" title="DAFTAR JUARA288" href="https://seobapak.xyz/juara288/" class="card-cta-button">
+                                DAFTAR JUARA288
+                            </a>
+
+                            <a target="_blank" rel="nofollow noreferrer noopener" title="ALTERNATIF JUARA288" href="https://seobapak.xyz/juara288/" class="card-cta-button">
+                                ALTERNATIF JUARA288
+                            </a>
+                        </div>
+
+                        <div class="card-footer">
+                            <span class="stats" title="Efisiensi Project">JUARA288 X By PaPa MerTa</span>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+</body>
+</html>
